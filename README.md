@@ -16,7 +16,7 @@ PDF Merger is a Python-based application that allows users to combine multiple P
 
 - **Programming Language:** Python
 - **Library:** pypdf
-- **GUI:** Tkinter (if used in the project)
+- **GUI:** Tkinter 
 
 ## ⚙️ Installation and Setup
 
